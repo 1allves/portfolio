@@ -27,8 +27,10 @@ h1{
 margin: 10%;
 }
 
-span{
-    color: #6B4846;
+.botao{
+    background-color: #6B4846;
+    color: #000;
+    border-radius: solid 5px;
 }
 
 .enfase { 
