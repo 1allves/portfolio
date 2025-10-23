@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+    background: url("img/imagemduda.jpeg") no-repeat right;
+    background-size: 40%;
+    background-color: #FADCD9;
+    color:#6B4846;
+    font-family:'Playfair Display'; 
+}
+
+h1{
+  font-size: 40px;
+}
+
+.rosto {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+.texto-inicial{
+margin: 10%;
+}
+
+span{
+    color: #6B4846;
+}
+
+.enfase { 
+font-weight: bolder;
+}
